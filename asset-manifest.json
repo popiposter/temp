@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/popiposter/temp/static/css/main.078ea4e4.css",
+    "main.js": "/popiposter/temp/static/js/main.5127b3b6.js",
+    "static/js/787.1ee047b8.chunk.js": "/popiposter/temp/static/js/787.1ee047b8.chunk.js",
+    "static/media/pulkovo.jpg": "/popiposter/temp/static/media/pulkovo.8636711a7167d36b5d53.jpg",
+    "static/media/pulse.jpg": "/popiposter/temp/static/media/pulse.6601d4cdcdc28623d75f.jpg",
+    "static/media/gastelo.jpg": "/popiposter/temp/static/media/gastelo.0ecaa8cab6fbb55f5567.jpg",
+    "static/media/kamenka.jpg": "/popiposter/temp/static/media/kamenka.358bdaed4146d82eda64.jpg",
+    "static/media/novo-sergievo3.jpg": "/popiposter/temp/static/media/novo-sergievo3.7fdae574c099ec06a48a.jpg",
+    "static/media/novo-sergievo.jpg": "/popiposter/temp/static/media/novo-sergievo.62e0755f9367af69c0e1.jpg",
+    "static/media/setl_logo.svg": "/popiposter/temp/static/media/setl_logo.bc2151a1aba9b0ba05d8205b03ce2341.svg",
+    "index.html": "/popiposter/temp/index.html",
+    "main.078ea4e4.css.map": "/popiposter/temp/static/css/main.078ea4e4.css.map",
+    "main.5127b3b6.js.map": "/popiposter/temp/static/js/main.5127b3b6.js.map",
+    "787.1ee047b8.chunk.js.map": "/popiposter/temp/static/js/787.1ee047b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.078ea4e4.css",
+    "static/js/main.5127b3b6.js"
+  ]
+}
